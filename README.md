@@ -1,10 +1,8 @@
-# ESP32 Lab Schedule Display
-
+# Smart Digital Lab Display
 A 3-strip LED display that tells you what's happening in the lab right now: which lab is running, who the lecturer is, and how many students are in the class. It changes on its own as the day goes by, so nobody has to update a notice board.
 
 I built this in our Computer Engineering lab at Government Polytechnic Proddatur as part of the lab digitalization effort. The idea was simple: replace a static board with something that is always correct and also looks good.
 
-<!-- If the lab was somewhere else, change the line above -->
 
 ## What it does
 
